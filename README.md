@@ -11,7 +11,7 @@ This project has 3 parts:
 
 - Modeling
 
-# Columns
+# Import Columns from Dataset
 - Step: A unit of time that represents hours in the dataset. 
 Think of this as the timestamp of the transaction (e.g. hour 1, hour 2, … hour 534, …) 
 - Type: The type of transaction 
