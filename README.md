@@ -2,7 +2,7 @@
 
 # Project Overview
 
-In this project, we're working with a considerably large dataset of financial transactions, aiming to detect and flag fraudulent transaction while trying to filter out falsfe positives. Class imbalance presents a major challenge in this dataset, where non-fraudulent transactions far outnumber fraudulent ones.
+In this project, we're working with a considerably large dataset of financial transactions, aiming to detect and flag fraudulent transaction while trying to filter out false positives. Class imbalance presents a major challenge in this dataset, where non-fraudulent transactions far outnumber fraudulent ones.
 
 # This project has 3 parts: 
 
@@ -12,7 +12,7 @@ In this project, we're working with a considerably large dataset of financial tr
 
 - Modeling
 
-# Import Columns from Dataset
+# Important Columns from Dataset
 
 - Step: A unit of time that represents hours in the dataset. 
 Think of this as the timestamp of the transaction (e.g. hour 1, hour 2, … hour 534, …) 
