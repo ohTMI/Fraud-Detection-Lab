@@ -1,4 +1,4 @@
-# Financial Fruad Detection
+# Financial Fraud Detection
 
 # Project Overview
 
